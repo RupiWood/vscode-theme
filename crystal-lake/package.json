@@ -1,0 +1,22 @@
+{
+  "name": "crystal-lake",
+  "displayName": "Crystal Lake",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Crystal Lake",
+        "uiTheme": "vs",
+        "path": "./themes/Crystal Lake-color-theme.json"
+      }
+    ]
+  }
+}
+
